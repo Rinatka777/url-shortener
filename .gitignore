@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+.venv/
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+ruff_cache/
+
+# Editors
+.idea/
+.vscode/
+
+# Build
+dist/
+build/
+
+# Alembic
+alembic/versions/*.pyc
